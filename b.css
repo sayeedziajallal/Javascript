@@ -1,0 +1,51 @@
+.top-class {
+    background-color: silver;
+    width: 900px;
+    margin-left: 40px;
+}
+
+.but-class1 button {
+    background-color: blue;
+    color: white;
+}
+
+.btn-class2 button {
+    background-color: rgb(126, 182, 126);
+
+}
+.d-flex {
+    display: flex;
+   
+}
+.align-item {
+    align-items: center;
+}
+
+.cover-page {
+    border: 1px solid black;
+    height: 250px;
+    width: 500px;
+}
+
+.para-class p {
+    margin-top: 0px;
+    padding-top: 0px;
+    margin-left: 0px;
+}
+
+.h2-class h1 {
+    margin: 0px;
+    padding-top: 10px;
+    margin-left: 0px;
+    ;
+}
+
+.para2-class p {
+    margin-left: 0px;
+
+}
+
+.but-class button {
+    margin-right: 0px;
+    background-color: orange;
+}
